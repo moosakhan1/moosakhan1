@@ -83,8 +83,21 @@
 
 ---
 
-<h3 align="center">🐍 Watch my contributions get eaten by a snake</h3>
+
+### 🎨 3D Contribution Graph  
 
 <p align="center">
-  <img src="https://github.com/moosakhan1/moosakhan1/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img src="https://github.com/baqaruk1/baqaruk1/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+### 🌀 Fun Touch (3D Profile Card)
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=baqaruk1&theme=radical" width="100%"/>
 </p>
