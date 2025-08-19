@@ -83,7 +83,6 @@
 
 ---
 
-
 ### 🎨 3D Contribution Graph  
 
 <p align="center">
@@ -95,9 +94,3 @@
 </p>
 
 ---
-
-### 🌀 Fun Touch (3D Profile Card)
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=baqaruk1&theme=radical" width="100%"/>
-</p>
