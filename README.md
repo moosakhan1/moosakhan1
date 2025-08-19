@@ -86,7 +86,7 @@
 ### 🎨 3D Contribution Graph  
 
 <p align="center">
-     "🐍"
+     🐍
 </p>
 
 <p align="center">
